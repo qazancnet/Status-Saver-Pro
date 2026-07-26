@@ -1,0 +1,6 @@
+{
+  "name": "StatusSaver Pro",
+  "description": "WhatsApp statuslarını avtomatik yaddasaxlama, daxili şəkil/video redaktə, paylaşma və silmə alətləri olan tətbiq.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
